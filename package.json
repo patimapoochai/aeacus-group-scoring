@@ -1,0 +1,14 @@
+{
+  "name": "group-score-leaderboard",
+  "version": "1.0.0",
+  "description": "Web app to manage multiple Aeacus VMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patima Poochai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
